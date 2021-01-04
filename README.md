@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/KoGaYoung/dev_ko/blob/main/img/hello.gif" width="100%">
+  <br><br>
+  
+  <samp>
+    Hi,<img src="https://github.com/KoGaYoung/dev_ko/blob/main/img/Hi.gif" width="20px"> I'm KoGaYoung Web developer working on <a href="https://github.com/kogayoung">@devko :octocat:</a> to support open source.
+  </samp>
+  <img align="right" width="375" alt="GIF" src="https://github.com/KoGaYoung/dev_ko/blob/main/img/dino.gif" />
+</p>
 
-<!--
-**KoGaYoung/KoGaYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ ## :trophy: Languages and Tools: :robot:
+
+<img src="https://github.com/KoGaYoung/dev_ko/blob/main/img/djangologo.svg" width="50px"><img src="https://github.com/KoGaYoung/dev_ko/blob/main/img/python.png" width="50px"><img src="https://github.com/KoGaYoung/dev_ko/blob/main/img/djangologo.png" width="50px"><img src="https://github.com/KoGaYoung/dev_ko/blob/main/img/icons8-html-5.svg" width="50px"><img src="https://github.com/KoGaYoung/dev_ko/blob/main/img/icons8-css3.svg" width="50px"><img src="https://github.com/KoGaYoung/dev_ko/blob/main/img/icons8-javascript-logo.svg" width="50px"><img src="https://github.com/KoGaYoung/dev_ko/blob/main/img/icons8-react.svg" width="50px"><img src="https://github.com/KoGaYoung/dev_ko/blob/main/img/icons8-nodejs.svg" width="50px"><img src="https://github.com/KoGaYoung/dev_ko/blob/main/img/icons8-git.svg" width="50px"><img src="https://github.com/KoGaYoung/dev_ko/blob/main/img/icons8-github.svg" width="50px">
