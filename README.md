@@ -5,7 +5,6 @@
   <samp>
     Hi,<img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/Hi.gif" width="20px"> I'm KoGaYoung Web developer working on <a href="https://github.com/kogayoung">@devko :octocat:</a> to support open source.
   </samp>
-  <img align="right" width="375" alt="GIF" src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/dino.gif" />
 </p>
 
 <br/>
