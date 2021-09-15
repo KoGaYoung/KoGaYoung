@@ -13,7 +13,6 @@
 
 
  ## :trophy: Languages and Tools: :robot:
-
 <img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/djangologo.svg" width="50px">
 <img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/python.png" width="50px">
 <img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/djangologo.png" width="50px">
