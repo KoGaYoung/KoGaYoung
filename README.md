@@ -3,7 +3,7 @@
   <br><br>
   
   <samp>
-    Hi,<img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/Hi.gif" width="20px"> I'm KoGaYoung Web developer working on <a href="https://github.com/kogayoung">@devko :octocat:</a> to support open source.
+    Hi,<img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/Hi.gif" width="20px"> I'm Ko GaYoung Web developer working on <a href="https://github.com/kogayoung">@devko :octocat:</a> to support open source.
   </samp>
 </p>
 
