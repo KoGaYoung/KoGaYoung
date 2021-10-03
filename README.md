@@ -10,10 +10,9 @@
 <br/>
 <br/>
 
-
-
  ## :trophy: Languages and Tools: :robot:
 <img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/icons8-react.svg" width="50px"><img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/reacthooks.png" width="50px"><img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/icons8-nodejs.svg" width="50px"><img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/djangologo.svg" width="50px"><img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/python.png" width="50px"><img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/djangologo.png" width="50px"><img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/icons8-javascript-logo.svg" width="50px"><img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/icons8-html-5.svg" width="50px"><img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/icons8-css3.svg" width="50px"><img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/icons8-git.svg" width="50px"><img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/icons8-github.svg" width="50px">
 
 
-
+ ## <img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/cat.gif" width="30px"> Algorithm trainning
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=j4723515)
