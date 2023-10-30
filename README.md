@@ -1,18 +1,19 @@
-<p align="center">
-  <img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/hello.gif" width="100%">
-  <br><br>
-  
-  <samp>
-    Hi,<img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/Hi.gif" width="20px"> I'm Ko GaYoung Web developer working on <a href="https://github.com/kogayoung">@devko :octocat:</a> to support open source.
-  </samp>
-</p>
+<p>Hi,<img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/Hi.gif" width="20px"> I'm Ko GaYoung Web developer working on <a href="https://github.com/kogayoung">@devko :octocat:</a> to support open source.</p>
 
 <br/>
-<br/>
 
- ## :trophy: Languages and Tools: :robot:
-<img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/icons8-react.svg" width="50px"><img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/reacthooks.png" width="50px"><img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/icons8-javascript-logo.svg" width="50px"><img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/icons8-html-5.svg" width="50px"><img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/icons8-css3.svg" width="50px"><img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/icons8-github.svg" width="50px">
+ ## :robot: Languages and Tools 
+ <p>• 코어: React, TypeScript</p>
+ <p>• 상태 관리: MobX, Redux</p>
+ <p>• 스타일링: Scss</p>
+ <p>• 패키지 매니저: npm, yarn, Yarn Berry</p>
+ <p>• 빌드: Webpack, Babel</p>
+ <p>• CI/CD: Git, Gitlab, SourceTree</p>
+ <p>• 개발효율: Mock.js, storybook</p>
+ <p>• 코드품질: Eslint, convention</p>
 
+ ## 📖 Interest and Learning
+ <p>• Next.js, Emotion, Monorepo</p>
 
- ## <img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/cat.gif" width="30px"> Algorithm trainning
+ ## 🔥 <img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/cat.gif" width="30px"> Algorithm trainning
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=j4723515)
