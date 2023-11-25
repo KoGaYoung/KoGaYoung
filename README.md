@@ -13,7 +13,7 @@
  <p>• 코드품질: Eslint, convention</p>
 
  ## 📖 Interest and Learning
- <p>Next.js, tailwind, Monorepo, GraphQL, React query, zustand</p>
+ <p>Next.js, tailwind, Monorepo, GraphQL, React query, zustand</p>
 
 ## good at: 
 ~~~
