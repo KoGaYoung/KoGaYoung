@@ -22,6 +22,5 @@
 😋 choosing a lunch menu
 ~~~
 
-## good at se
  ## 🔥 <img src="https://github.com/KoGaYoung/KoGaYoung/blob/main/image/cat.gif" width="30px"> Algorithm trainning
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=j4723515)
