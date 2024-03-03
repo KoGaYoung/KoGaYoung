@@ -4,7 +4,7 @@
 
  ## :robot: Languages and Tools 
  <p>• 코어: React, TypeScript</p>
- <p>• 상태 관리: MobX, Recoil</p>
+ <p>• 상태 관리: MobX, Recoil</p>
  <p>• 스타일링: Scss, Emotion</p>
  <p>• 패키지 매니저: npm, yarn, pnpm</p>
  <p>• 빌드: Webpack, Babel</p>
