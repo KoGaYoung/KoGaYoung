@@ -3,17 +3,14 @@
 <br/>
 
  ## :robot: Languages and Tools 
- <p>• 코어: React, TypeScript</p>
- <p>• 상태 관리: MobX, Recoil</p>
- <p>• 스타일링: Scss, Emotion</p>
+ <p>• 언어: React, TypeScript</p>
+ <p>• 상태 관리: Recoil, MobX, ContextApi</p>
+ <p>• 스타일링: Scss, Emotion, tailwind</p>
  <p>• 패키지 매니저: npm, yarn, pnpm</p>
  <p>• 빌드: Webpack, Babel</p>
- <p>• CI/CD: Git, Gitlab, SourceTree</p>
+ <p>• CI/CD: Gitlab action</p>
  <p>• 개발효율: Mock.js, Msw</p>
- <p>• 코드품질: Eslint</p>
-
- ## 📖 Interest and Learning
- <p>react-query, zotai</p>
+ <p>• 코드품질: Eslint, prettier </p>
 
 ## good at: 
 ~~~
