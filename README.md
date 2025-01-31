@@ -5,17 +5,17 @@
  ## :robot: Languages and Tools 
  <p>• 선호: React, NextJS, TypeScript</p>
  <p>• 상태 관리: React-Query, ContextApi, Recoil, MobX</p>
- <p>• 스타일링: Styled-Component, Emotion, Tailwind</p>
- <p>• 빌드: Vite</p>
+ <p>• 스타일링: Tailwind, Styled-Component, Emotion</p>
  <p>• CI/CD: Gitlab action</p>
  <p>• 개발효율: Msw, Mockjs</p>
- <p>• 코드품질: Eslint, prettier </p>
+ <p>• 코드품질: Eslint, prettier</p>
  <p>• 테스트: jest</p>
 
 ## good at: 
 ~~~
 🧑‍💻 Writing meaningful code (every line)
 ⏩ optimization
+🆕 something new
 😋 choosing a lunch menu
 ~~~
 
