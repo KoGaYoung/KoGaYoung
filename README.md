@@ -3,14 +3,14 @@
 <br/>
 
  ## :robot: Languages and Tools 
- <p>• 언어: React, TypeScript</p>
- <p>• 상태 관리: Recoil, MobX, ContextApi</p>
- <p>• 스타일링: Scss, Emotion, tailwind</p>
- <p>• 패키지 매니저: npm, yarn, pnpm</p>
- <p>• 빌드: Webpack, Babel</p>
+ <p>• 선호: React, NextJS, TypeScript</p>
+ <p>• 상태 관리: React-Query, ContextApi, Recoil, MobX</p>
+ <p>• 스타일링: Styled-Component, Emotion, Tailwind</p>
+ <p>• 빌드: Vite</p>
  <p>• CI/CD: Gitlab action</p>
- <p>• 개발효율: Mock.js, Msw</p>
+ <p>• 개발효율: Msw, Mockjs</p>
  <p>• 코드품질: Eslint, prettier </p>
+ <p>• 테스트: jest</p>
 
 ## good at: 
 ~~~
